@@ -1,7 +1,0 @@
-server.port=8082
-spring.datasource.url=jdbc:mysql://127.0.0.1:3306/recipe_management
-spring.datasource.username=root
-spring.datasource.password=television12@@
-spring.jpa.hibernate.ddl-auto=update
-app.image.upload-dir=C:/Users/srees/Documents/Angular/CalorieTracker_UI/src/assets/images
-spring.zipkin.baseUrl=http://zipkin-server:9411
