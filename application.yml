@@ -5,3 +5,6 @@ eureka:
 spring:
   zipkin:
     baseUrl: http://zipkin-server:9411
+  sleuth:
+    sampler:
+      probability: 1.0
