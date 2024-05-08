@@ -1,4 +1,4 @@
-client:
-  service-url:
-    defaultZone: http://3.109.246.230:8761/eureka/
-
+eureka:
+  client:
+    service-url:
+      defaultZone: http://3.109.246.230:8761/eureka/
